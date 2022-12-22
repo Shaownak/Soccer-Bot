@@ -1,8 +1,3 @@
-//mbmishu
-//code for motor driver L298N
-//four wheel
-//left motor = motor 1 & motor 3
-//right motor = motor 2 & motor 4
 #define direction_Leftmotor_F 4 //for motor 1 & motor 3 forward
 #define direction_Leftmotor_B 5 //for motor 1 & motor 3 backward
 #define direction_Rightmotor_F 7 //for motor 2 & motor 4 forward
